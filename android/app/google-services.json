@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "566170552280",
+    "project_id": "cacoethes-5fd13",
+    "storage_bucket": "cacoethes-5fd13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566170552280:android:e20122ccc8a76d980914ad",
+        "android_client_info": {
+          "package_name": "edu.cpp.my_first_flutter_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH20SzCwrWreBUiyQS3Cb_kCetzp07U_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
